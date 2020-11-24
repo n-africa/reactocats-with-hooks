@@ -1,7 +1,12 @@
 import React from 'react'
+import Footer from './components/Footer.jsx'
 
 function App() {
-  return <div>Hello, World!</div>
+  return (
+    <>
+      <Footer />
+    </>
+  )
 }
 
 export default App
